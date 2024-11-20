@@ -1,0 +1,5 @@
+    [submodule "developerFolio-master/src"]
+
+    	path = developerFolio-master/src
+
+    	url = <your_submodule_repository_url>
