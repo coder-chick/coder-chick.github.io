@@ -3,9 +3,6 @@ description: Something isn't working as expected? Here is the right place to rep
 labels: ["bug"]
 
 body:
-  - type: markdown
-    attributes:
-      value: Please fill out each section below. This info allows maintainers to diagnose (and fix!) your issue as quickly as possible. Before opening a new issue, please search existing issues [here](https://github.com/saadpasta/developerFolio/issues).
 
   - type: textarea
     id: description
